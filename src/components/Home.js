@@ -36,7 +36,7 @@ class NavBar extends React.Component {
         </Fade>
         <Fade direction="up" triggerOnce={true}>
           <a href="mailto:dzombicadi@icloud.com" className="home-contact">
-            <EmailRoundedIcon></EmailRoundedIcon>
+            <EmailRoundedIcon className="home-contact-icon"></EmailRoundedIcon>
             {}Say hi!
           </a>
         </Fade>

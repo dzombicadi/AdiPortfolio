@@ -10,7 +10,7 @@
   flex-direction: column;
   margin: auto;
   max-width: 1000px;
-  min-height: 100vh;
+  min-height: 95vh;
   padding-top: 240px;
 }
 
@@ -47,6 +47,10 @@
   padding: 10px 25px;
   font-size: 22px;
   border-radius: 6px;
+}
+
+.home-contact-icon {
+  margin-right: 5px;
 }
 
 .home-contact:hover {

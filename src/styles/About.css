@@ -1,0 +1,46 @@
+#about {
+  min-height: 50vh;
+  margin: auto;
+  max-width: 1000px;
+  padding-top: 20px;
+  padding-bottom: 500px;
+}
+
+.about-header {
+  float: left;
+  margin-bottom: 1.5rem;
+  padding-top: 5rem;
+}
+
+.about-title {
+  color: var(--lightestSlate);
+  font-family: NTR, sans-serif;
+  font-size: 46px;
+  font-weight: 700;
+}
+
+.about-description {
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--lightSmoke);
+}
+
+.line-mf {
+  background-color: var(--light-navy);
+  display: inline;
+  float: right;
+  height: 1px;
+  margin-left: 1rem;
+  margin-top: 1.5rem;
+  width: 28rem;
+}
+
+.about-text {
+  font-size: 22px;
+  color: var(--smoke);
+}
+
+.about-image {
+  width: 350px;
+  height: 350px;
+}
