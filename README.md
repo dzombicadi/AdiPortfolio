@@ -33,6 +33,7 @@
    ```
 
 ## 🎨 CSS hex color palette
+All colors can be found in /styles/Global.css
 
 | Color          | Hex                                                                |
 | ------------------ | ------------------------------------------------------------------ |
