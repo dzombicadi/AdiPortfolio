@@ -3,17 +3,17 @@
 }
 
 .menu-name {
-  color: var(--menuColor) !important;
+  color: var(--lightestSlate) !important;
   font-weight: bold;
 }
 
 .nav-links {
-  color: var(--menuColor) !important;
+  color: var(--lightestSlate) !important;
   font-weight: bold !important;
 }
 
 .nav-icon-links {
-  color: var(--menuColor) !important;
+  color: var(--lightestSlate) !important;
 }
 
 .nav-icon-links:hover {
